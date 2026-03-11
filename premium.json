@@ -1,0 +1,58 @@
+[
+    {
+        "id": "pornhub_global",
+        "name": "Pornhub Network",
+        "baseUrl": "https://api.phn.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 1
+    },
+    {
+        "id": "spankbang_hd",
+        "name": "SpankBang Premium",
+        "baseUrl": "https://api.spankbang.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 2
+    },
+    {
+        "id": "xv_network",
+        "name": "XVideos Global",
+        "baseUrl": "https://api.xv-api.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 3
+    },
+    {
+        "id": "brazzers_official",
+        "name": "Brazzers Network",
+        "baseUrl": "https://api.brzapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 4
+    },
+    {
+        "id": "reality_kings",
+        "name": "Reality Kings",
+        "baseUrl": "https://api.rk-vod.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 5
+    },
+    {
+        "id": "naughty_america",
+        "name": "Naughty America",
+        "baseUrl": "https://api.naughty-vod.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 6
+    },
+    {
+        "id": "adult_empire",
+        "name": "Adult Empire",
+        "baseUrl": "https://api.ae-vod.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 7
+    }
+]
