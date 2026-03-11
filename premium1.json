@@ -1,0 +1,10 @@
+[
+  {
+    "id": "xvidapi",
+    "name": "XVID Adult",
+    "baseUrl": "https://xvidapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  }
+]
